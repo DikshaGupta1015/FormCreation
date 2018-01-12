@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDay4_FormCreation", "MVCDay4_FormCreation\MVCDay4_FormCreation.csproj", "{524FD182-1AEF-442F-8C1D-A6262FC95460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524FD182-1AEF-442F-8C1D-A6262FC95460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524FD182-1AEF-442F-8C1D-A6262FC95460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524FD182-1AEF-442F-8C1D-A6262FC95460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524FD182-1AEF-442F-8C1D-A6262FC95460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4946E5-0D06-4050-9E56-02E2C70FC4C0}
+	EndGlobalSection
+EndGlobal
